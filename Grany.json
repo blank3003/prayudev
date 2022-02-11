@@ -32,7 +32,7 @@
     
 				{
 					"id":1,
-					"nama_skin":"BrannyGranny1",
+					"name_skin":"BrannyGranny1",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny1.png",
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny1.png"
 					
@@ -40,14 +40,14 @@
 				},
 				{
 					"id":2,
-					"nama_skin":"BrannyGranny2",
+					"name_skin":"BrannyGranny2",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny2.png",
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny2.png"
 					
 				},
 				{
 					"id":3,
-					"nama_skin":"BrannyGranny3",
+					"name_skin":"BrannyGranny3",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny3.png",
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny3.png"
 					
@@ -55,14 +55,14 @@
 				},
 				{
 					"id":4,
-					"nama_skin":"BrannyGranny4",
+					"name_skin":"BrannyGranny4",
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny4.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny4.png"
 					
 				},
 				{
 					"id":5,
-					"nama_skin":"BrannyGranny5",
+					"name_skin":"BrannyGranny5",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny5.png",
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny5.png"
 					
@@ -72,751 +72,751 @@
 					"id":6,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny6.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny6.png",
-					"nama_skin":"BrannyGranny6"
+					"name_skin":"BrannyGranny6"
 				},
 				{
 					"id":7,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny7.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny7.png",
-					"nama_skin":"BrannyGranny7"
+					"name_skin":"BrannyGranny7"
 				},
 				{
 					"id":8,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny8.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny8.png",
-					"nama_skin":"BrannyGranny8"
+					"name_skin":"BrannyGranny8"
 				},
 				{
 					"id":9,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny9.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny9.png",
-					"nama_skin":"BrannyGranny9"
+					"name_skin":"BrannyGranny9"
 				},
 				{
 					"id":10,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny10.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny10.png",
-					"nama_skin":"BrannyGranny10"
+					"name_skin":"BrannyGranny10"
 				},
 				{
 					"id":11,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny11.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny11.png",
-					"nama_skin":"BrannyGranny11"
+					"name_skin":"BrannyGranny11"
 				},
 				{
 					"id":12,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny12.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny12.png",
-					"nama_skin":"BrannyGranny12"
+					"name_skin":"BrannyGranny12"
 				},
 				{
 					"id":13,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny13.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny13.png",
-					"nama_skin":"BrannyGranny13"
+					"name_skin":"BrannyGranny13"
 				},
 				{
 					"id":14,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny14.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny14.png",
-					"nama_skin":"BrannyGranny14"
+					"name_skin":"BrannyGranny14"
 				},
 				{
 					"id":15,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny15.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny15.png",
-					"nama_skin":"BrannyGranny15"
+					"name_skin":"BrannyGranny15"
 				},
 				{
 					"id":16,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny16.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny16.png",
-					"nama_skin":"BrannyGranny16"
+					"name_skin":"BrannyGranny16"
 				},
 				{
 					"id":17,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny17.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny17.png",
-					"nama_skin":"BrannyGranny17"
+					"name_skin":"BrannyGranny17"
 				},
 				{
 					"id":18,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny18.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny18.png",
-					"nama_skin":"BrannyGranny18"
+					"name_skin":"BrannyGranny18"
 				},
 				{
 					"id":19,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny19.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny19.png",
-					"nama_skin":"BrannyGranny19"
+					"name_skin":"BrannyGranny19"
 				},
 				{
 					"id":20,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny20.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny20.png",
-					"nama_skin":"BrannyGranny20"
+					"name_skin":"BrannyGranny20"
 				},
 				{
 					"id":21,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny21.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny21.png",
-					"nama_skin":"BrannyGranny21"
+					"name_skin":"BrannyGranny21"
 				},
 				{
 					"id":22,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny22.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny22.png",
-					"nama_skin":"BrannyGranny22"
+					"name_skin":"BrannyGranny22"
 				},
 				{
 					"id":23,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny23.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny23.png",
-					"nama_skin":"BrannyGranny23"
+					"name_skin":"BrannyGranny23"
 				},
 				{
 					"id":24,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny24.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny24.png",
-					"nama_skin":"BrannyGranny24"
+					"name_skin":"BrannyGranny24"
 				},
 				{
 					"id":25,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny25.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny25.png",
-					"nama_skin":"BrannyGranny25"
+					"name_skin":"BrannyGranny25"
 				},
 				{
 					"id":26,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny26.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny26.png",
-					"nama_skin":"BrannyGranny26"
+					"name_skin":"BrannyGranny26"
 				},
 				{
 					"id":27,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny27.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny27.png",
-					"nama_skin":"BrannyGranny27"
+					"name_skin":"BrannyGranny27"
 				},
 				{
 					"id":28,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny28.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny28.png",
-					"nama_skin":"BrannyGranny28"
+					"name_skin":"BrannyGranny28"
 				},
 				{
 					"id":29,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny29.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny29.png",
-					"nama_skin":"BrannyGranny29"
+					"name_skin":"BrannyGranny29"
 				},
 				{
 					"id":30,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny30.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny30.png",
-					"nama_skin":"BrannyGranny30"
+					"name_skin":"BrannyGranny30"
 				},
 				{
 					"id":31,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny31.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny31.png",
-					"nama_skin":"BrannyGranny31"
+					"name_skin":"BrannyGranny31"
 				},
 				{
 					"id":32,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny32.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny32.png",
-					"nama_skin":"BrannyGranny32"
+					"name_skin":"BrannyGranny32"
 				},
 				{	
 					"id":33,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny33.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny33.png",
-					"nama_skin":"BrannyGranny33"
+					"name_skin":"BrannyGranny33"
 				},
 				{
 					"id":34,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny34.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny34.png",
-					"nama_skin":"BrannyGranny34"
+					"name_skin":"BrannyGranny34"
 				},
 				{
 					"id":35,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny35.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny35.png",
-					"nama_skin":"BrannyGranny35"
+					"name_skin":"BrannyGranny35"
 				},
 				{
 					"id":36,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny36.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny36.png",
-					"nama_skin":"BrannyGranny36"
+					"name_skin":"BrannyGranny36"
 				},
 				{
 					"id":37,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny37.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny37.png",
-					"nama_skin":"BrannyGranny37"
+					"name_skin":"BrannyGranny37"
 				},
 				{
 					"id":38,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny38.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny38.png",
-					"nama_skin":"BrannyGranny38"
+					"name_skin":"BrannyGranny38"
 				},
 				{
 					"id":39,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny39.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny39.png",
-					"nama_skin":"BrannyGranny39"
+					"name_skin":"BrannyGranny39"
 				},
 				{
 					"id":40,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny40.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny40.png",
-					"nama_skin":"BrannyGranny40"
+					"name_skin":"BrannyGranny40"
 				},
 				{
 					"id":41,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny41.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny41.png",
-					"nama_skin":"BrannyGranny41"
+					"name_skin":"BrannyGranny41"
 				},
 				{
 					"id":42,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny42.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny42.png",
-					"nama_skin":"BrannyGranny42"
+					"name_skin":"BrannyGranny42"
 				},
 				{
 					"id":43,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny43.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny43.png",
-					"nama_skin":"BrannyGranny43"
+					"name_skin":"BrannyGranny43"
 				},
 				{
 					"id":44,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny44.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny44.png",
-					"nama_skin":"BrannyGranny44"
+					"name_skin":"BrannyGranny44"
 				},
 				{
 					"id":45,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny45.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny45.png",
-					"nama_skin":"BrannyGranny45"
+					"name_skin":"BrannyGranny45"
 				},
 				{	
 					"id":46,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny46.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny46.png",
-					"nama_skin":"BrannyGranny46"
+					"name_skin":"BrannyGranny46"
 				},
 				{
 					"id":47,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny47.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny47.png",
-					"nama_skin":"BrannyGranny47"
+					"name_skin":"BrannyGranny47"
 				},
 				{
 					"id":48,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny48.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny48.png",
-					"nama_skin":"BrannyGranny48"
+					"name_skin":"BrannyGranny48"
 				},
 				{
 					"id":49,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny49.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny49.png",
-					"nama_skin":"BrannyGranny49"
+					"name_skin":"BrannyGranny49"
 				},
 				{
 					"id":50,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny50.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny50.png",
-					"nama_skin":"BrannyGranny50"
+					"name_skin":"BrannyGranny50"
 				},
 				{
 					"id":51,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny51.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny51.png",
-					"nama_skin":"BrannyGranny51"
+					"name_skin":"BrannyGranny51"
 				},
 				{
 					"id":52,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny52.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny52.png",
-					"nama_skin":"BrannyGranny52"
+					"name_skin":"BrannyGranny52"
 				},
 				{
 					"id":53,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny53.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny53.png",
-					"nama_skin":"BrannyGranny53"
+					"name_skin":"BrannyGranny53"
 				},
 				{
 					"id":54,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny54.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny54.png",
-					"nama_skin":"BrannyGranny54"
+					"name_skin":"BrannyGranny54"
 				},
 				{
 					"id":55,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny55.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny55.png",
-					"nama_skin":"BrannyGranny55"
+					"name_skin":"BrannyGranny55"
 				},
 				{
 					"id":56,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny56.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny56.png",
-					"nama_skin":"BrannyGranny56"
+					"name_skin":"BrannyGranny56"
 				},
 				{
 					"id":57,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny57.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny57.png",
-					"nama_skin":"BrannyGranny57"
+					"name_skin":"BrannyGranny57"
 				},
 				{
 					"id":58,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny58.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny58.png",
-					"nama_skin":"BrannyGranny58"
+					"name_skin":"BrannyGranny58"
 				},
 				{
 					"id":59,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny59.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny59.png",
-					"nama_skin":"BrannyGranny59"
+					"name_skin":"BrannyGranny59"
 				},
 				{
 					"id":60,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny60.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny60.png",
-					"nama_skin":"BrannyGranny60"
+					"name_skin":"BrannyGranny60"
 				},
 				{
 					"id":61,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny61.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny61.png",
-					"nama_skin":"BrannyGranny61"
+					"name_skin":"BrannyGranny61"
 				},
 				{
 					"id":62,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny62.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny62.png",
-					"nama_skin":"BrannyGranny62"
+					"name_skin":"BrannyGranny62"
 				},
 				{
 					"id":63,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny63.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny63.png",
-					"nama_skin":"BrannyGranny63"
+					"name_skin":"BrannyGranny63"
 				},
 				{
 					"id":64,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny64.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny64.png",
-					"nama_skin":"BrannyGranny64"
+					"name_skin":"BrannyGranny64"
 				},
 				{
 					"id":65,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny65.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny65.png",
-					"nama_skin":"BrannyGranny65"
+					"name_skin":"BrannyGranny65"
 				},
 				{
 					"id":66,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny66.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny66.png",
-					"nama_skin":"BrannyGranny66"
+					"name_skin":"BrannyGranny66"
 				},
 				{
 					"id":67,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny67.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny67.png",
-					"nama_skin":"BrannyGranny67"
+					"name_skin":"BrannyGranny67"
 				},
 				{
 					"id":68,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny68.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny68.png",
-					"nama_skin":"BrannyGranny68"
+					"name_skin":"BrannyGranny68"
 				},
 				{
 					"id":69,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny69.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny69.png",
-					"nama_skin":"BrannyGranny69"
+					"name_skin":"BrannyGranny69"
 				},
 				{
 					"id":70,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny70.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny70.png",
-					"nama_skin":"BrannyGranny70"
+					"name_skin":"BrannyGranny70"
 				},
 				{
 					"id":71,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny71.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny71.png",
-					"nama_skin":"BrannyGranny71"
+					"name_skin":"BrannyGranny71"
 				},
 				{
 					"id":72,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny72.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny72.png",
-					"nama_skin":"BrannyGranny72"
+					"name_skin":"BrannyGranny72"
 				},
 				{
 					"id":73,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny73.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny73.png",
-					"nama_skin":"BrannyGranny73"
+					"name_skin":"BrannyGranny73"
 				},
 				{
 					"id":74,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny74.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny74.png",
-					"nama_skin":"BrannyGranny74"
+					"name_skin":"BrannyGranny74"
 				},
 				{
 					"id":75,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny75.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny75.png",
-					"nama_skin":"BrannyGranny75"
+					"name_skin":"BrannyGranny75"
 				},
 				{
 					"id":76,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny76.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny76.png",
-					"nama_skin":"BrannyGranny76"
+					"name_skin":"BrannyGranny76"
 				},
 				{
 					"id":77,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny77.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny77.png",
-					"nama_skin":"BrannyGranny77"
+					"name_skin":"BrannyGranny77"
 				},
 				{
 					"id":78,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny78.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny78.png",
-					"nama_skin":"BrannyGranny78"
+					"name_skin":"BrannyGranny78"
 				},
 				{
 					"id":79,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny79.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny79.png",
-					"nama_skin":"BrannyGranny79"
+					"name_skin":"BrannyGranny79"
 				},
 				{
 					"id":80,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny80.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny80.png",
-					"nama_skin":"BrannyGranny80"
+					"name_skin":"BrannyGranny80"
 				},
 				{
 					"id":81,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny81.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny81.png",
-					"nama_skin":"BrannyGranny81"
+					"name_skin":"BrannyGranny81"
 				},
 				{
 					"id":82,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny82.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny82.png",
-					"nama_skin":"BrannyGranny82"
+					"name_skin":"BrannyGranny82"
 				},
 				{
 					"id":83,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny83.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny83.png",
-					"nama_skin":"BrannyGranny83"
+					"name_skin":"BrannyGranny83"
 				},
 				{
 					"id":84,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny84.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny84.png",
-					"nama_skin":"BrannyGranny84"
+					"name_skin":"BrannyGranny84"
 				},
 				{
 					"id":85,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny85.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny85.png",
-					"nama_skin":"BrannyGranny85"
+					"name_skin":"BrannyGranny85"
 				},
 				{
 					"id":86,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny86.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny86.png",
-					"nama_skin":"BrannyGranny86"
+					"name_skin":"BrannyGranny86"
 				},
 				{
 					"id":87,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny87.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny87.png",
-					"nama_skin":"BrannyGranny87"
+					"name_skin":"BrannyGranny87"
 				},
 				{
 					"id":88,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny88.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny88.png",
-					"nama_skin":"BrannyGranny88"
+					"name_skin":"BrannyGranny88"
 				},
 				{
 					"id":89,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny89.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny89.png",
-					"nama_skin":"BrannyGranny89"
+					"name_skin":"BrannyGranny89"
 				},
 				{
 					"id":90,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny90.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny90.png",
-					"nama_skin":"BrannyGranny90"
+					"name_skin":"BrannyGranny90"
 				},
 				{
 					"id":91,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny91.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny91.png",
-					"nama_skin":"BrannyGranny91"
+					"name_skin":"BrannyGranny91"
 				},
 				{
 					"id":92,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny92.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny92.png",
-					"nama_skin":"BrannyGranny92"
+					"name_skin":"BrannyGranny92"
 				},
 				{
 					"id":93,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny93.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny93.png",
-					"nama_skin":"BrannyGranny93"
+					"name_skin":"BrannyGranny93"
 				},
 				{
 					"id":94,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny94.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny94.png",
-					"nama_skin":"BrannyGranny94"
+					"name_skin":"BrannyGranny94"
 				},
 				{
 					"id":95,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny95.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny95.png",
-					"nama_skin":"BrannyGranny95"
+					"name_skin":"BrannyGranny95"
 				},
 				{
 					"id":96,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny96.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny96.png",
-					"nama_skin":"BrannyGranny96"
+					"name_skin":"BrannyGranny96"
 				},
 				{
 					"id":97,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny97.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny97.png",
-					"nama_skin":"BrannyGranny97"
+					"name_skin":"BrannyGranny97"
 				},
 				{
 					"id":98,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny98.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny98.png",
-					"nama_skin":"BrannyGranny98"
+					"name_skin":"BrannyGranny98"
 				},
 				{
 					"id":99,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny99.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny99.png",
-					"nama_skin":"BrannyGranny99"
+					"name_skin":"BrannyGranny99"
 				},
 				{
 					"id":100,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny100.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny100.png",
-					"nama_skin":"BrannyGranny100"
+					"name_skin":"BrannyGranny100"
 				},
 				{
 					"id":101,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny101.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny101.png",
-					"nama_skin":"BrannyGranny101"
+					"name_skin":"BrannyGranny101"
 				},
 				{
 					"id":102,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny102.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny102.png",
-					"nama_skin":"BrannyGranny102"
+					"name_skin":"BrannyGranny102"
 				},
 				{
 					"id":103,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny103.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny103.png",
-					"nama_skin":"BrannyGranny103"
+					"name_skin":"BrannyGranny103"
 				},
 				{
 					"id":104,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny104.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny104.png",
-					"nama_skin":"BrannyGranny104"
+					"name_skin":"BrannyGranny104"
 				},
 				{
 					"id":105,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny105.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny105.png",
-					"nama_skin":"BrannyGranny105"
+					"name_skin":"BrannyGranny105"
 				},
 				{
 					"id":106,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny106.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny106.png",
-					"nama_skin":"BrannyGranny106"
+					"name_skin":"BrannyGranny106"
 				},
 				{
 					"id":107,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny107.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny107.png",
-					"nama_skin":"BrannyGranny107"
+					"name_skin":"BrannyGranny107"
 				},
 				{
 					"id":108,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny108.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny108.png",
-					"nama_skin":"BrannyGranny108"
+					"name_skin":"BrannyGranny108"
 				},
 				{
 					"id":109,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny109.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny109.png",
-					"nama_skin":"BrannyGranny109"
+					"name_skin":"BrannyGranny109"
 				},
 				{
 					"id":110,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny110.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny110.png",
-					"nama_skin":"BrannyGranny110"
+					"name_skin":"BrannyGranny110"
 				},
 				{
 					"id":111,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny111.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny111.png",
-					"nama_skin":"BrannyGranny111"
+					"name_skin":"BrannyGranny111"
 				},
 				{
 					"id":112,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny112.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny112.png",
-					"nama_skin":"BrannyGranny112"
+					"name_skin":"BrannyGranny112"
 				},
 				{
 					"id":113,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny113.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny113.png",
-					"nama_skin":"BrannyGranny113"
+					"name_skin":"BrannyGranny113"
 				},
 				{
 					"id":114,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny114.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny114.png",
-					"nama_skin":"BrannyGranny114"
+					"name_skin":"BrannyGranny114"
 				},
 				{
 					"id":115,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny115.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny115.png",
-					"nama_skin":"BrannyGranny115"
+					"name_skin":"BrannyGranny115"
 				},
 				{
 					"id":116,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny116.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny116.png",
-					"nama_skin":"BrannyGranny116"
+					"name_skin":"BrannyGranny116"
 				},
 				{
 					"id":117,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny117.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny117.png",
-					"nama_skin":"BrannyGranny117"
+					"name_skin":"BrannyGranny117"
 				},
 				{
 					"id":118,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny118.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny118.png",
-					"nama_skin":"BrannyGranny118"
+					"name_skin":"BrannyGranny118"
 				},
 				{
 					"id":119,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny119.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny119.png",
-					"nama_skin":"BrannyGranny119"
+					"name_skin":"BrannyGranny119"
 				},
 				{
 					"id":120,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny120.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny120.png",
-					"nama_skin":"BrannyGranny120"
+					"name_skin":"BrannyGranny120"
 				},
 				{
 					"id":121,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny121.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny121.png",
-					"nama_skin":"BrannyGranny121"
+					"name_skin":"BrannyGranny121"
 				},
 				{
 					"id":122,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny122.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny122.png",
-					"nama_skin":"BrannyGranny122"
+					"name_skin":"BrannyGranny122"
 				},
 				{
 					"id":123,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny123.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny123.png",
-					"nama_skin":"BrannyGranny123"
+					"name_skin":"BrannyGranny123"
 				},
 				{
 					"id":124,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny124.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny124.png",
-					"nama_skin":"BrannyGranny124"
+					"name_skin":"BrannyGranny124"
 				},
 				{
 					"id":125,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny125.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny125.png",
-					"nama_skin":"BrannyGranny125"
+					"name_skin":"BrannyGranny125"
 				},
 				{
 					"id":126,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny126.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny126.png",
-					"nama_skin":"BrannyGranny126"
+					"name_skin":"BrannyGranny126"
 				},
 				{
 					"id":127,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny127.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny127.png",
-					"nama_skin":"BrannyGranny127"
+					"name_skin":"BrannyGranny127"
 				},
 				{
 					"id":128,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny128.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny128.png",
-					"nama_skin":"BrannyGranny128"
+					"name_skin":"BrannyGranny128"
 				},
 				{
 					"id":129,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny129.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny129.png",
-					"nama_skin":"BrannyGranny129"
+					"name_skin":"BrannyGranny129"
 				},
 				{
 					"id":130,
 					"view_skin":"https://aweu.net/sekin/v1/grany/thumb/BrannyGranny130.png",
 					"skin_url":"https://aweu.net/sekin/v1/grany/png/BrannyGranny130.png",
-					"nama_skin":"BrannyGranny130"
+					"name_skin":"BrannyGranny130"
 				}
 
   ],
